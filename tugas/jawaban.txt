@@ -1,0 +1,2 @@
+konstruktor adalah metode yang berpungsi untuk menginisialisasi variable instan yang akan dimiliki oleh objek.
+destruktor adalah fungsi anggota yang dipanggil secara otomatis ketika objek keluar dari cakupan atau secara eksplisit dihancurkan oleh panggilan ke delet
